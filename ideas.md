@@ -24,3 +24,4 @@ Variables of interest:
 - Gender
 - Income
 - Sexual orientation
+- Education
