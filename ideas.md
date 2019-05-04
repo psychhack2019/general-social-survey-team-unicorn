@@ -31,6 +31,10 @@ Attitudes/bias of interest:
   - Allow to speak (spkhomo)
   - Allow to teach (colhomo)
   - Allow books in library (libhomo)
+- Attitudes towards woman	
+  - Suited for politics (fepol)	
+  - Women better to be at home (fefam)	
+  - Abortion (abany)
 
 How have Conservative-leaning individuals felt about women's reproductive rights changed over time?
 Have have number of women in the workplace/politics changed over time?
