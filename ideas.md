@@ -7,4 +7,4 @@
 - When: 
 
 Ideas:
-- what effects do ___ have on the political party affiliation of minority groups?
+- compared to the dominant/majority group, how does ___ affect the political party affiliation of minority groups?
