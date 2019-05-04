@@ -1,9 +1,6 @@
 # Research Question Ideas
 
-Who: minority group
-
-What:
-
-Where:
-
-Why:
+- Who: minority group
+- What:
+- Where:
+- Why:
