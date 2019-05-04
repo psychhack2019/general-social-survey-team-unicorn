@@ -20,21 +20,30 @@ Are more people Liberal-leaning now vs. 10-20 years ago? Is it because attitudes
 
 Variables of interest:
 - Political affiliation (polviews)
-- Race (race)
-- Gender (sex)
-- Income (rincome)
-- Sexual orientation (sexornt)
-- Education (degree)
+- ~Race (race)~
+- ~Gender (sex)~
+- ~Income (rincome)~
+- ~Sexual orientation (sexornt)~
+- ~Education (degree)~
 
 Attitudes/bias of interest:
 - Attitude towards gays
   - Allow to speak (spkhomo)
   - Allow to teach (colhomo)
   - Allow books in library (libhomo)
-- Attitudes towards woman	
+  - Sexual relations (homosex)
+  - Marriage (marhomo)
+- Attitudes towards women	
   - Suited for politics (fepol)	
   - Women better to be at home (fefam)	
   - Abortion (abany)
+- Affirmative action
+  - Blacks (affrmact)
+  - Woman (fejobaff)
+- Attitudes on race
+  - Diversity in workplace (racwork)
+  - Difference due to discrimination (racdif1)
+  - Diversity in neighbourhood (raclive)
 
 How have Conservative-leaning individuals felt about women's reproductive rights changed over time?
 Have have number of women in the workplace/politics changed over time?
