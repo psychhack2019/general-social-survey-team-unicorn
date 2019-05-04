@@ -25,3 +25,9 @@ Variables of interest:
 - Income
 - Sexual orientation
 - Education
+
+Income > women's reproductive rights > political party
+
+How have Conservative-leaning individuals felt about women's reproductive rights changed over time?
+Have have number of women in the workplace/politics changed over time?
+What are Conservative-leaning individuals' opinions on hiring women / affirmative action?
