@@ -2,9 +2,10 @@
 
 - Who: minority group
 - What: political party affliation
-- Where: 
-- Why:
+- Where: USA
+- Why: 
 - When: 
 
 Ideas:
-- compared to the dominant/majority group, how does ___ affect the political party affiliation of minority groups?
+- how does ___ affect the political party affiliation of low-income?
+- how does income affect 
