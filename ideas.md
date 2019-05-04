@@ -26,9 +26,5 @@ Variables of interest:
 - Sexual orientation
 - Education
 
-How have Conservative-leaning individuals felt about women's reproductive rights changed over time?
-Have have number of women in the workplace/politics changed over time?
-What are Conservative-leaning individuals' opinions on hiring women / affirmative action?
 
-People's opinions on women's reproductive rights, women's role in the household, etc.
-For example, how many people who disagree with a woman's right to choose whether she wants to give birth voted Conservative vs. Liberal?
+
