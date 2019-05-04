@@ -19,12 +19,12 @@ Affiliation to Liberal party > how many people belong to Y and Z group 10-20 yea
 Are more people Liberal-leaning now vs. 10-20 years ago? Is it because attitudes toward A, B, and C have changed? Which way is the correlation going?
 
 Variables of interest:
-- Political affiliation
-- Race
-- Gender
-- Income
-- Sexual orientation
-- Education
+- Political affiliation (polviews)
+- Race (race)
+- Gender (sex)
+- Income (rincome)
+- Sexual orientation (sexornt)
+- Education (degree)
 
 Attitudes/bias of interest:
 - Attitude towards gays
